@@ -20,7 +20,7 @@ app.add_middleware(
 # OpenRouter client
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key=os.getenv("OPENROUTER_API_KEY", "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")
+    api_key=os.getenv("OPENROUTER_API_KEY", "your key")
 )
 
 # Simple rate limiting
