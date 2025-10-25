@@ -23,11 +23,11 @@
 ### 🎨 Hero Section - Dark & Light Themes
 <table>
   <tr>
-    <td width="50%">
+    <td width="30%">
       <img src="screenshots/hero-light.png" alt="Hero Light Mode"/>
       <p align="center"><b>Light Mode</b></p>
     </td>
-    <td width="50%">
+    <td width="30%">
       <img src="screenshots/hero-dark.png" alt="Hero Dark Mode"/>
       <p align="center"><b>Dark Mode</b></p>
     </td>
@@ -113,7 +113,7 @@
 ---
 
 ### 📧 Contact Form
-<img src="screenshots/contact-form.png" alt="Contact Section" width="100%"/>
+<img src="screenshots/contact-form.png" alt="Contact Section" width="50%"/>
 
 **What to capture:**
 - Split layout: contact info + form
