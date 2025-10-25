@@ -47,10 +47,6 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="screenshots/chatbot-closed.png" alt="Chatbot Toggle"/>
-      <p align="center"><b>Floating Chat Button</b></p>
-    </td>
-    <td width="50%">
       <img src="screenshots/chatbot-open.png" alt="Chatbot Interface"/>
       <p align="center"><b>Active Conversation</b></p>
     </td>
@@ -153,17 +149,6 @@
 - Checkmark icon with success message
 - Backdrop blur effect
 - Close button
-
----
-
-### 🧭 Navigation & Scrolling
-<img src="screenshots/navigation-scroll.png" alt="Navigation States" width="100%"/>
-
-**What to capture:**
-- Navbar with active link highlighting
-- Scrolled state with shadow/blur
-- Theme toggle button
-- Logo and menu items
 
 ---
 
