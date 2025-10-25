@@ -2,13 +2,11 @@
 
 > **Built for DevOne Hackathon 2025** - A next-generation portfolio showcasing the intersection of modern web development and artificial intelligence.
 
-[![Live Demo]([https://img.shields.io/badge/demo-live-brightgreen](https://stirring-swan-3a2b35.netlify.app/))](YOUR_DEPLOYED_URL)
-
 ## 📖 Overview
 
 This portfolio represents the future of personal branding for developers—combining stunning visual design with cutting-edge AI features. Built with modern web technologies and enhanced with voice-guided tours and an intelligent chatbot, this project demonstrates how AI can transform the traditional portfolio experience.
 
-**Live Site:** [Insert Your Deployed URL]  
+**Live Site:** [https://stirring-swan-3a2b35.netlify.app/]  
 **Developer:** Gayathri Chilukala  
 **Submission Date:** October 2025
 
