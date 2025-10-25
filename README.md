@@ -2,9 +2,7 @@
 
 > **Built for DevOne Hackathon 2025** - A next-generation portfolio showcasing the intersection of modern web development and artificial intelligence.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](YOUR_DEPLOYED_URL)
-[![GitHub](https://img.shields.io/badge/github-repo-blue)](YOUR_GITHUB_REPO)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Live Demo]([https://img.shields.io/badge/demo-live-brightgreen](https://stirring-swan-3a2b35.netlify.app/))](YOUR_DEPLOYED_URL)
 
 ## 📖 Overview
 
