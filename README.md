@@ -44,7 +44,7 @@
 ---
 
 ### 🤖 AI Chatbot - GPT-4.1 Powered
-<img src="screenshots/chatbot-open.png" alt="Chatbot Interface" width="100%"/>
+<img src="screenshots/chatbot-open.png" alt="Chatbot Interface" width="30%"/>
 
 **What to capture:**
 - Large floating chat button (bottom right)
