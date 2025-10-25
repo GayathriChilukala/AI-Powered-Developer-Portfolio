@@ -20,7 +20,7 @@
 
 ## 📸 Screenshots
 
-### 🎨 Hero Section - Dark & Light Themes
+### 🎨 Dark & Light Themes
 <table>
   <tr>
     <td width="30%">
