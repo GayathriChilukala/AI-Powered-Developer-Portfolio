@@ -46,7 +46,7 @@
 ### 🤖 AI Chatbot - GPT-4.1 Powered
 <table>
   <tr>
-    <td width="50%">
+    <td width="100%">
       <img src="screenshots/chatbot-open.png" alt="Chatbot Interface"/>
       <p align="center"><b>Active Conversation</b></p>
     </td>
