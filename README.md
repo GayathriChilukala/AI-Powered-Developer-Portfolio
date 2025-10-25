@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Portfolio Banner](screenshots/banner.png)
+![Portfolio Banner](screenshots/PortfolioBanner.png)
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-blue?style=for-the-badge)](https://your-portfolio-url.com)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
